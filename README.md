@@ -16,6 +16,7 @@ This project is an implementation of a fully functional analog clock using HTML,
 
 <hr>
  <h2>Video</h2>
+ 
 ![Demo](./media/analogclock.gif)
 
 # Project Structure
