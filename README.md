@@ -11,10 +11,11 @@ This project is an implementation of a fully functional analog clock using HTML,
 
 # Interface
 
+ <h2>Image</h2>
 <img src="./media/analog.png"></img>
 
 <hr>
-
+ <h2>Video</h2>
 ![Demo](./media/analogclock.gif)
 
 # Project Structure
@@ -28,7 +29,7 @@ HTML Structure<br>
 
 Clone the repository: <br>
 Copy code<br>
-git clone https://github.com/tapeshchavle/Analog-clock.git<br>
+git clone https://github.com/tapeshchavle/Analog-Clock.git<br>
 Navigate to the project directory:<br>
 
 # Contributing
