@@ -14,9 +14,10 @@ This project is an implementation of a fully functional analog clock using HTML,
 <img src="./media/analog.png"></img>
 
 <hr>
- <video controls="controls">
+<video controls="controls">
       <source src="media/analogclock.mp4" />
-    </video>
+</video>
+
 # Project Structure
 
 index.html: Contains the HTML structure of the clock.<br>
